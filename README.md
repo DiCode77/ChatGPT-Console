@@ -2,7 +2,7 @@
 ChatGPT-Console
 
 Communication with ChatGPT using terminal.
-Latest current version: 0.0.2
+Latest current version: 0.0.4
 
 The program works only under macOS.
 
